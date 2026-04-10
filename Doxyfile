@@ -1,0 +1,12 @@
+PROJECT_NAME           = "Deliver Eats"
+PROJECT_BRIEF          = "Food delivery simulation system"
+OUTPUT_DIRECTORY       = .
+INPUT                  = .
+FILE_PATTERNS          = *.cpp *.h
+RECURSIVE              = NO
+GENERATE_HTML          = YES
+GENERATE_LATEX         = NO
+HTML_OUTPUT            = html
+EXTRACT_ALL            = YES
+EXCLUDE                = catch.hpp
+QUIET                  = YES
